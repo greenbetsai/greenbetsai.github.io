@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/", // This will be replaced with your repo name in GitHub Pages
+  base: "/greenbet-analytics-hub/", // Replace this with your actual repository name
   server: {
     host: "::",
     port: 8080,
